@@ -12,9 +12,9 @@ In modern music applications like Spotify, creating a playlist system involves c
 To solve this structural complexity, we implemented the **Composite Design Pattern**. It composes objects into tree structures to represent part-whole hierarchies. By providing a unified `Playable` interface, the pattern allows the client code to treat individual objects (`Song`) and compositions of objects (`Playlist`) uniformly. This eliminates the need for type-checking and makes the system highly scalable.
 
 ## 📂 Project Deliverables
-- 📝 **[Problem Analysis & Trade-offs](#)**
-- 🎯 **[Pattern Selection & Justification](#)**
-- 📊 **[UML Class Diagram](#)**
+- 📝 **[Problem Analysis & Trade-offs](./Problem-Analysis-Report.md)**
+- 🎯 **[Pattern Selection & Justification](./Pattern-Justification.md)**
+- 📊 **[UML Class Diagram](./UML-Diagram.md)**
 - 💻 **[Source Code Implementation](#)**
 - 📄 **[Presentation Slides (PDF)](#)**
 - 🎬 **[Presentation Video (Watch Here)](#)**
