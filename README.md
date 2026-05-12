@@ -18,7 +18,7 @@ To solve this structural complexity, we implemented the **Composite Design Patte
 - 💻 **[Source Code Implementation](#)**
 - 📄 **[Presentation Slides (PDF)](#)**
 - 🎬 **[Presentation Video (Watch Here)](#)**
-- 📋 **[Project Management Board (Kanban)](#)**
+- 📋 **[Project Management Board (Kanban)](https://github.com/users/MO-Showman/projects/3/views/1?system_template=kanban)**
 
 ## 👨‍💻 Authors
 - **Names:** [ Mohammad shoman , Ibrahim Al-Balawi ,Ahmed Al-Ajmi ]
