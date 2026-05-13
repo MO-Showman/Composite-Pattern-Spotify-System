@@ -16,7 +16,7 @@ To solve this structural complexity, we implemented the **Composite Design Patte
 - 🎯 **[Pattern Selection & Justification](./Pattern-Justification.md)**
 - 📊 **[UML Class Diagram](./UML-Diagram.md)**
 - 💻 **[Source Code Implementation](./src)**
-- 📄 **[Presentation Slides (PDF)](#)**
+- 📄 **[Presentation Slides (PDF)](./Presentation-Slide.pdf)**
 - 🎬 **[Presentation Video (Watch Here)](#)**
 - 📋 **[Project Management Board (Kanban)](https://github.com/users/MO-Showman/projects/3/views/1?system_template=kanban)**
 
